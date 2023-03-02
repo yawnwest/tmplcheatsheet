@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+        "main.aux": true,
+        "main.fdb_latexmk": true,
+        "main.fls": true,
+        "main.log": true,
+        "main.synctex.gz": true,
+    }
+}
