@@ -1,0 +1,2 @@
+# tmplcheatsheet
+Template for cheatsheets.
